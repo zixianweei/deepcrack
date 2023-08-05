@@ -4,7 +4,7 @@
 
 ## Note
 
-Thanks for qinnzou's code, pretrained-models, and datasets. This repository is forked from qinnzou's deepcrack. If you are interested in the work, please cite his work. You can find his repo by this [link](https://github.com/qinnzou/DeepCrack).
+Thanks for qinnzou's code, pretrained-models, and datasets. This repository is forked from qinnzou's deepcrack. If you are interested in deepcrack, please cite his paper. You can find his repo by this [link](https://github.com/qinnzou/DeepCrack).
 
 My work is very simple. I wrote a Python script, which can generate a pytorch-jit-model, so that it can be loaded using LibTorch. Here is the script: [export.py](./export.py)
 
